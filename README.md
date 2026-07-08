@@ -103,7 +103,7 @@
 
 📧 **Email:** gundlapallymadhuri2003@gmail.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/
+💼 **LinkedIn:** https://www.linkedin.com/in/madhurigundlapally
 
 🌐 **GitHub:** https://github.com/MadhuriGundlapally
 
