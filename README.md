@@ -51,3 +51,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadhuriGundlapally&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhuriGundlapally&layout=compact&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MadhuriGundlapally&theme=tokyonight"/>
+</p>
