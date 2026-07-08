@@ -51,22 +51,23 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MadhuriGundlapally&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhuriGundlapally&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MadhuriGundlapally&show_icons=true&theme=tokyonight" />
 </p>
 
+## 💻 Top Languages
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MadhuriGundlapally&layout=compact&theme=tokyonight" />
+</p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=MadhuriGundlapally&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=MadhuriGundlapally&theme=tokyonight" />
 </p>
 
 
