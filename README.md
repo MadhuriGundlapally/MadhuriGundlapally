@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Madhuri Gundlapally</h1>
-<h3 align="center">Software Engineer | Java Full Stack Developer | Backend Developer</h3>
+<h3 align="center">Software Engineer | Java Developer | Cloud & Cybersecurity Enthusiast</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Full+Stack+Developer;Backend+Developer;Spring+Boot+Developer;REST+API+Developer;DSA+Learner;Open+to+Software+Engineering+Opportunities+🚀" />
